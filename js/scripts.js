@@ -12,3 +12,15 @@ let Lucario = {
   height: 1.2,
   types: ['steel','fighting']
 }
+
+let Rayquaza = {
+  name: 'Rayquaza',
+  height: 7,
+  types: ['Dragon','Flying']
+}
+
+let Reshiram = {
+  name: 'Reshiram',
+  height:3.2,
+  types: ['Dragon','Fire']
+}
